@@ -10,3 +10,4 @@
 
 ### `TopToast.kt` 2020-04-10
 [自定义Toast，宽度全屏，高度自定义，显示在titleBar下方](https://www.jianshu.com/p/7d9ef7db1502)
+![最终效果](https://upload-images.jianshu.io/upload_images/14730476-202ab68d9da756a3.gif?imageMogr2/auto-orient/strip)
