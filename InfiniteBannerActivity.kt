@@ -1,23 +1,3 @@
-package com.github.john.test
-
-import android.annotation.SuppressLint
-import android.content.Context
-import android.os.Bundle
-import android.os.Handler
-import android.view.ViewGroup
-import android.view.ViewGroup.LayoutParams.MATCH_PARENT
-import android.view.ViewGroup.LayoutParams.WRAP_CONTENT
-import android.widget.ImageView
-import android.widget.RadioButton
-import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.get
-import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.PagerSnapHelper
-import androidx.recyclerview.widget.RecyclerView
-import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.activity_main.view.*
-
-
 @SuppressLint("Registered")
 class InfiniteScrollActivity : AppCompatActivity() {
 

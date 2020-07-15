@@ -1,14 +1,3 @@
-import android.content.Context
-import android.graphics.Color
-import android.view.Gravity
-import android.view.View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
-import android.view.ViewGroup.LayoutParams.MATCH_PARENT
-import android.widget.FrameLayout
-import android.widget.TextView
-import android.widget.Toast
-import androidx.annotation.StringRes
-import androidx.core.content.ContextCompat
-
 class TopToast(val context: Context) :Toast(context){
 
     private var topText: String = ""

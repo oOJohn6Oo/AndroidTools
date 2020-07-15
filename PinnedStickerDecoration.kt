@@ -1,19 +1,3 @@
-package com.github.john.musecam
-
-import android.content.Context
-import android.graphics.Canvas
-import android.graphics.Paint
-import android.graphics.Rect
-import android.graphics.Typeface
-import android.text.TextPaint
-import android.util.TypedValue
-import android.view.View
-import androidx.core.content.ContextCompat
-import androidx.core.view.get
-import androidx.recyclerview.widget.RecyclerView
-import java.util.*
-import kotlin.math.min
-
 class PinnedStickerDecoration(context: Context,private val tests: MutableList<String>) : RecyclerView.ItemDecoration() {
     private val textPaint = TextPaint()
     private val bgdPaint = Paint()
