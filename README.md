@@ -22,5 +22,8 @@
 [继承自ViewGroup，自动适配横竖屏,xml设置属性](https://www.jianshu.com/p/e1671fc5f6c8)
 ![最终效果](https://upload-images.jianshu.io/upload_images/14730476-18a7ef10a44dc038.gif?imageMogr2/auto-orient/strip)
 ### `HighLightRecyclerView.kt` 2020-09-26
-[高亮Item效果的RecyclerView](https://www.jianshu.com/p/ebdda00da70f)
+[高亮Item效果的 RecyclerView](https://www.jianshu.com/p/ebdda00da70f)
 ![最终效果](https://upload-images.jianshu.io/upload_images/14730476-2d6bc01f23d2384f.gif?imageMogr2/auto-orient/strip)
+### `TranslateInsetsAnimationListener.java` 2021-12-20
+[响应键盘动画的 EditText](https://www.jianshu.com/p/0634548d34de)
+![最终效果](https://upload-images.jianshu.io/upload_images/14730476-02e07f00a1b3e337.gif?imageMogr2/auto-orient/strip|imageView2/2/w/540)
